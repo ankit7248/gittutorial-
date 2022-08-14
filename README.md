@@ -1,7 +1,7 @@
 😄 Pronouns: He/His
 🔭 I’m currently learning more about Web Dev and DSA.
 📫 building portfolio of UI/UX.
-⚡ Fun activity: I spend playing table tennis in lesiure time.
+⚡ Fun activity: I spend time to playing table tennis in lesiure time.
 📫 How to reach me: Check social links below.
 
 
