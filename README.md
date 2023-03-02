@@ -1,4 +1,5 @@
-<img width="728" alt="Screenshot 2022-10-19 023112" src="https://user-images.githubusercontent.com/101561408/222526827-d403df8b-4ce6-49e8-adae-4645ee0a82a3.png">
+![Group 9 (2)](https://user-images.githubusercontent.com/101561408/222528102-996a48af-57a1-4d3a-b44b-96d66076f4a2.png)
+
 
 
 😄 Pronouns: He/His
