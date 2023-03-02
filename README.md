@@ -1,7 +1,7 @@
 
 😄 Pronouns: He/His
 🔭 I’m currently learning more about Android Dev and DSA.
-📫 building portfolio of UI/UX.
+📫 building portfolio of Kotlin Android Developer.
 ⚡ Fun activity: I spend time to playing table tennis in lesiure time.
 📫 How to reach me: Check social links below.
 
