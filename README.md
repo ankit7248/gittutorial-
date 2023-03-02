@@ -1,3 +1,6 @@
+<img width="728" alt="Screenshot 2022-10-19 023112" src="https://user-images.githubusercontent.com/101561408/222526827-d403df8b-4ce6-49e8-adae-4645ee0a82a3.png">
+
+
 😄 Pronouns: He/His
 🔭 I’m currently learning more about Android Dev and DSA.
 📫 building portfolio of UI/UX.
