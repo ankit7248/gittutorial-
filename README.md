@@ -2,7 +2,7 @@
 😄 Pronouns: He/His
 🔭 I’m currently learning more about Android Dev and DSA.
 📫 building portfolio of Kotlin Android Developer.
-⚡ Fun activity: I spend time to playing table tennis in lesiure time.
+⚡ Fun activity: I spend time to listen Music in lesiure time.
 📫 How to reach me: Check social links below.
 
 
