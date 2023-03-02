@@ -1,6 +1,3 @@
-![Group 9 (2)](https://user-images.githubusercontent.com/101561408/222528102-996a48af-57a1-4d3a-b44b-96d66076f4a2.png)
-
-
 
 😄 Pronouns: He/His
 🔭 I’m currently learning more about Android Dev and DSA.
