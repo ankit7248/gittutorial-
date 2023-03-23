@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate Native Android Developer from India</h3>
-<img align="right" alt="Coding" width="400" src=""D:\Android\68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif"">
+<img align="right" alt="Coding" width="400" src= "![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/101561408/227316043-1a4b34a3-fc5c-49af-8333-bcc73cb5869f.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit7248&label=Profile%20views&color=0e75b6&style=flat" alt="ankit7248" /> </p>
 
