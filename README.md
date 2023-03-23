@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate Native Android Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=android+coding+gif&rlz=1C1JZAP_enIN971IN971&sxsrf=AJOqlzWiAcD_BpPfcddmeU9Mqbk8YxgThA:1679595072193&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi-6JOd0_L9AhUwRmwGHYCHDJwQ_AUoAXoECAEQAw&biw=1707&bih=948&dpr=1.5#imgrc=2JKeF76tTWe0TM&imgdii=kHseQMLgKTNk6M">
+<img align="right" alt="Coding" width="400" src="https://gifer.com/en/6M8G">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit7248&label=Profile%20views&color=0e75b6&style=flat" alt="ankit7248" /> </p>
 
