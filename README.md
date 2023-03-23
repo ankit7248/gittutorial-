@@ -1,6 +1,6 @@
 <img width="1000" alt="Android banner" src="https://user-images.githubusercontent.com/101561408/223497526-b8e7af57-40db-4293-abff-785bbc29669c.png">
 
-<h1 align="center">Hi ![hand](https://user-images.githubusercontent.com/101561408/227312750-ef018cdc-e005-411a-aaa1-de1a4f756688.gif) , I'm Ankit Kumar</h1>
+<h1 align="center">Hi "D:\Android\hand.gif" , I'm Ankit Kumar</h1>
 <h3 align="center">A passionate Native Android Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://gifer.com/en/6M8G">
 
