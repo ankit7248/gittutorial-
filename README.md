@@ -31,5 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit7248&show_icons=true&locale=en" alt="ankit7248" /></p>
 
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=ankit7248&" alt="ankit7248" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=ankit7248&theme=dark" alt="ankit7248" /></p>
 
