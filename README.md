@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ankit7248 Spotify Playing" width="700" />](https://open.spotify.com/user/31cjwmtaano33ctet3umcsf2z2be?si=e70c3cc2d402454a)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ankit7248 Spotify Playing" width="500" />](https://open.spotify.com/user/31cjwmtaano33ctet3umcsf2z2be?si=e70c3cc2d402454a)
 
 
 
