@@ -35,8 +35,8 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ankit7248&show_icons=true&locale=en&layout=compact" alt="ankit7248" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankit7248&show_icons=true&locale=en" alt="ankit7248" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankit7248&show_icons=true&locale=en" alt="ankit7248" /></p>
 
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=ankit7248" alt="ankit7248" /></p>
+<p><img align="right" src="https://streak-stats.demolab.com/?user=ankit7248" alt="ankit7248" /></p>
 
