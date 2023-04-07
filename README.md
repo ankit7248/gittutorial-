@@ -1,9 +1,9 @@
 <img width="1000" alt="Android banner" src="https://user-images.githubusercontent.com/101561408/223497526-b8e7af57-40db-4293-abff-785bbc29669c.png">
-
+<hr>
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ankit7248 Spotify Playing" width="1000" />](https://open.spotify.com/user/31cjwmtaano33ctet3umcsf2z2be?si=e70c3cc2d402454a)
-
+<hr>
 
 <h1 align="center">Hi 👋, I'm Ankit Kumar </h1>
 <h3 align="center">A passionate Native Android Developer from India</h3>
@@ -35,9 +35,9 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ankit7248&show_icons=true&locale=en&layout=compact" alt="ankit7248" /></p>
 
-
+<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankit7248&show_icons=true&locale=en" alt="ankit7248" /></p>
-
+<hr>
 
 <p><img align="right" src="https://streak-stats.demolab.com/?user=ankit7248" alt="ankit7248" /></p>
 
