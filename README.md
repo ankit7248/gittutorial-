@@ -46,5 +46,5 @@
  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankit7248&show_icons=true&locale=en" alt="ankit7248" /></p>
 
 
-<p><img align="left" src="https://streak-stats.demolab.com/?user=ankit7248" alt="ankit7248" /></p>
+<p> <img align="left" src="https://streak-stats.demolab.com/?user=ankit7248" alt="ankit7248" /></p>
 
