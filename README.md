@@ -4,9 +4,11 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ankit7248 Spotify Playing" width="500" />](https://open.spotify.com/user/31cjwmtaano33ctet3umcsf2z2be?si=e70c3cc2d402454a)
+<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ankit7248 Spotify Playing" width="500" />](https://open.spotify.com/user/31cjwmtaano33ctet3umcsf2z2be?si=e70c3cc2d402454a) -->
 
-
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://tthn0.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+</a>
 
 <hr>
 
@@ -47,4 +49,4 @@
 
 
 <p> <img align="left" src="https://streak-stats.demolab.com/?user=ankit7248" alt="ankit7248" /></p>
-
+                                                                                                                    
