@@ -44,7 +44,7 @@
 
 <hr>
 
-[![Leetcode Stats](https://leetcode.card.workers.dev/Maurya_Ankit)](https://leetcode.com/Maurya_Ankit) 
+[![Leetcode Stats](https://leetcode.card.workers.dev/Maurya_Ankit)](https) 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ankit7248&show_icons=true&locale=en&layout=compact" alt="ankit7248" /></p>
 
 
