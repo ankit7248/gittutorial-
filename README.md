@@ -21,6 +21,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit7248&label=Profile%20views&color=0e75b6&style=flat" alt="ankit7248" /> </p>
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/subh05sus/subh05sus/output/snake.svg"><img src="https://raw.githubusercontent.com/subh05sus/subh05sus/output/snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
+
 - 🌱 I’m currently learning **Node js, PL/SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankit7248](https://github.com/ankit7248)
